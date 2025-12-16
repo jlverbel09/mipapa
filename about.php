@@ -8,7 +8,7 @@ include './layouts/header.php';
             <div class="col-md-8 text-white">
                 <h1>Sobre Nosotros</h1>
                 <p>
-                    SENDA VIVA es la revalorización de la pieza única. Nuestro lujo no reside en la producción en masa, sino en la destreza de una persona. Cada sandalia pasa por las manos de nuestros artesanos, quienes dedican su tiempo y experiencia a la construcción meticulosa del calzado. El resultado es un diseño que lleva consigo el cuidado, la técnica y la paciencia de un oficio honrado en Colombia. Cuando elige Senda Viva, está invirtiendo en la calidad insustituible del trabajo manual. Un paso con distinción, creado con alma.
+                    Calzados JOYA nace de la convicción de que el verdadero lujo es humano. Para nosotros, cada sandalia no es solo un accesorio, es una pieza de arte única, trabajada con la dedicación que solo la mano de una persona puede entregar. En el corazón de Colombia, nuestros maestros artesanos transforman materiales nobles en calzado de distinción, cuidando cada costura y cada detalle. Creemos en la belleza de lo auténtico y en el valor de lo hecho con calma. Elegir Calzados JOYA es llevar consigo una parte de nuestra historia, un diseño esencial creado para brillar en cada paso.
                 </p>
             </div>
             <div class="col-md-4">
@@ -25,7 +25,7 @@ include './layouts/header.php';
         <div class="col-lg-6 m-auto">
             <h1 class="h1">Nuestros Servicios</h1>
             <p>
-                En SENDA VIVA, su experiencia es tan importante como la calidad de nuestro calzado. Ofrecemos un servicio que refleja la exclusividad de nuestras piezas:
+                En Calzados JOYA, nuestro compromiso es brindarle una experiencia tan impecable como el calzado que creamos:
             </p>
         </div>
     </div>

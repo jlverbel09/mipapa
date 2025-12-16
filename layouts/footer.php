@@ -4,7 +4,7 @@
          <div class="row">
 
              <div class="col-md-4 pt-5">
-                 <h2 class="h2 text-success border-bottom pb-3 border-light logo">Senda Viva</h2>
+                 <h2 class="h2 text-success border-bottom pb-3 border-light logo">Calzados JoYa</h2>
                  <ul class="list-unstyled text-light footer-link-list">
                      <!--  <li>
                          <i class="fas fa-map-marker-alt fa-fw"></i>
@@ -16,7 +16,7 @@
                      </li>
                      <li>
                          <i class="fa fa-envelope fa-fw"></i>
-                         <a class="text-decoration-none" href="mailto:info@sendaviva.com">info@sendaviva.com</a>
+                         <a class="text-decoration-none" href="mailto:info@calzadosjoya.com">info@calzadosjoya.com</a>
                      </li>
                  </ul>
              </div>

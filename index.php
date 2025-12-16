@@ -18,7 +18,7 @@ include './layouts/header.php'
                     </div>
                     <div class="col-lg-6 mb-0 d-flex align-items-center">
                         <div class="text-align-left align-self-center">
-                            <h1 class="h1 text-success"><b>SENDA</b><b class="color-primario"> VIVA</b></h1>
+                            <h1 class="h1 text-success"><b>CALZADOS</b><b class="color-primario"> JOYA</b></h1>
                             <h3 class="h2 color-primario"><b>Vive el camino con estilo!</b></h3>
                             <p>
                                 Diseño esencial, artesanía superior. Calzado creado para la mujer que prioriza la calidad sin renunciar a la elegancia en cada paso. La perfección está en el detalle.

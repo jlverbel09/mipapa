@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Senda Viva - Vive el camino con estilo!</title>
+    <title>Calzados JOYA - Vive el camino con estilo!</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
