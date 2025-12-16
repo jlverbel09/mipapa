@@ -1,0 +1,30 @@
+:root {
+    /* --- Senda Viva: Paleta de Lujo Tropical --- */
+
+    /* COLORES PRIMARIOS */
+    /* El color más oscuro, ideal para texto y acentos principales (Azul Profundo) */
+    --sv-color-primary: #192A56;
+
+    /* COLORES SECUNDARIOS */
+    /* Color de Calidez/Tierra, perfecto para suelas o fondos de contraste (Tostado/Terracota) */
+    --sv-color-secondary: #a2573f;
+
+    /* COLOR DE ACENTO Y LUJO */
+    /* El toque de Oro Suave para el logo, botones importantes, o líneas divisorias */
+    --sv-color-accent: #ae9553;
+
+    /* COLORES NEUTROS / FONDOS */
+    /* Fondo limpio y elegante (Blanco Roto/Crema) */
+    --sv-color-background: #F5F5DC;
+
+    /* Color estándar para asegurar la legibilidad del texto en fondos claros */
+    --sv-color-text-dark: #1A1A1A;
+}
+
+.color-primario {
+    color: var(--sv-color-primary);
+}
+
+.color-secundario {
+    color: var(--sv-color-secondary);
+}
