@@ -71,7 +71,7 @@ include './layouts/header.php'
             </div>
             <div class="row">
 
-            <?php for ($i=1; $i<=3;$i++): ?>
+            <?php for ($i=1; $i<=4;$i++): ?>
                 <div class="col-md-4">
                     <div class="card mb-4 product-wap rounded-0">
                         <div class="card rounded-0">

@@ -14,7 +14,7 @@ include './layouts/header.php'
             <div class="container">
                 <div class="row p-5">
                     <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                        <img class="img-fluid" src="./assets/img/banner_img_01.jpg" alt="">
+                        <img class="img-fluid" src="./assets/img/banner/banner_img_01.jpg" alt="">
                     </div>
                     <div class="col-lg-6 mb-0 d-flex align-items-center">
                         <div class="text-align-left align-self-center">
@@ -32,7 +32,7 @@ include './layouts/header.php'
             <div class="container">
                 <div class="row p-5">
                     <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                        <img class="img-fluid" src="./assets/img/banner_img_02.jpg" alt="">
+                        <img class="img-fluid" src="./assets/img/banner/banner_img_02.jpg" alt="">
                     </div>
                     <div class="col-lg-6 mb-0 d-flex align-items-center">
                         <div class="text-align-left">
@@ -50,7 +50,7 @@ include './layouts/header.php'
             <div class="container">
                 <div class="row p-5">
                     <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                        <img class="img-fluid" src="./assets/img/banner_img_03.jpg" alt="">
+                        <img class="img-fluid" src="./assets/img/banner/banner_img_03.jpg" alt="">
                     </div>
                     <div class="col-lg-6 mb-0 d-flex align-items-center">
                         <div class="text-align-left">
@@ -121,7 +121,7 @@ include './layouts/header.php'
             <div class="col-12 col-md-4 mb-4">
                 <div class="card h-100">
                     <a href="shop-single.html">
-                        <img src="./assets/img/feature_prod_01.jpg" class="card-img-top" alt="...">
+                        <img src="./assets/img/producto/destacado_1.jpg" class="card-img-top" alt="...">
                     </a>
                     <div class="card-body">
                         <ul class="list-unstyled d-flex justify-content-between">
@@ -145,7 +145,7 @@ include './layouts/header.php'
             <div class="col-12 col-md-4 mb-4">
                 <div class="card h-100">
                     <a href="shop-single.html">
-                        <img src="./assets/img/feature_prod_02.jpg" class="card-img-top" alt="...">
+                        <img src="./assets/img/producto/destacado_2.jpg" class="card-img-top" alt="...">
                     </a>
                     <div class="card-body">
                         <ul class="list-unstyled d-flex justify-content-between">
@@ -169,7 +169,31 @@ include './layouts/header.php'
             <div class="col-12 col-md-4 mb-4">
                 <div class="card h-100">
                     <a href="shop-single.html">
-                        <img src="./assets/img/feature_prod_03.jpg" class="card-img-top" alt="...">
+                        <img src="./assets/img/producto/destacado_3.jpg" class="card-img-top" alt="...">
+                    </a>
+                    <div class="card-body">
+                        <ul class="list-unstyled d-flex justify-content-between">
+                            <li>
+                                <i class="text-warning fa fa-star"></i>
+                                <i class="text-warning fa fa-star"></i>
+                                <i class="text-warning fa fa-star"></i>
+                                <i class="text-warning fa fa-star"></i>
+                                <i class="text-warning fa fa-star"></i>
+                            </li>
+                            <li class="text-muted text-right">$360.00</li>
+                        </ul>
+                        <a href="shop-single.html" class="h2 text-decoration-none text-dark">Modelo Lino</a>
+                        <p class="card-text">
+                            Fusión de ligereza y textura. Sofisticación sin esfuerzo para días de sol.
+                        </p>
+                        <p class="text-muted">Reseñas (74)</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 mb-4">
+                <div class="card h-100">
+                    <a href="shop-single.html">
+                        <img src="./assets/img/producto/destacado_4.jpg" class="card-img-top" alt="...">
                     </a>
                     <div class="card-body">
                         <ul class="list-unstyled d-flex justify-content-between">
